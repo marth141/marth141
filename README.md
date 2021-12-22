@@ -6,7 +6,7 @@ As of writing this (2021/12/22) I've been doing an Elixir backend for Skyline So
 
 This application is an Elixir Umbrella application using Phoenix Framework, Oban, and wrappers for eight Software as a Service applications APIs. The Elixir application handles realtime webhooks (where available) to pass information between the eight SaaS products.
 
-In this way, Skyline Solar has been able to grow 111% since implementing in 2020. It has been a pretty wild ride.
+In this way, Skyline Solar has been able to double their Sales since implementing in 2020. It has been a pretty wild ride.
 
 I've become pretty good at using `Stream.resource/3` to pull everything out of a SaaS service and store it into my own Postgres with Ecto so I can easily query more deeply on our data from any of these SaaS products.
 
@@ -18,13 +18,13 @@ I've become pretty good at using `Stream.resource/3` to pull everything out of a
 
 ### Ancillary Tools:
 
-<img id="gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"> <img id="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img id="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img id="node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img id="shell_script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<a id="gimp_link" href="https://www.gimp.org/"><img id="gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"></a> <a id="python_link" href="https://www.python.org/"><img id="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <a id="npm_link" href="https://www.npmjs.com/"><img id="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a> <a id="node_link" href="https://nodejs.org/en/"><img id="node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a> <a id="shell_link" href="https://ss64.com/"><img id="shell_script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 
-<img id="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img id="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img id="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img id="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+<a id="typescript_link" href="https://www.typescriptlang.org/"><img id="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a> <a id="markdown_link" href="https://www.markdownguide.org/cheat-sheet/"><img id="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a> <a id="windows_link" href="https://www.microsoft.com/en-us/windows?r=1"><img id="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> <a id="postman_link" href="https://www.postman.com/"><img id="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
 
 ### Learning:
 
-<img id="twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white">
+<a id="twilio_link" href="https://www.twilio.com/"><img id="twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"></a>
 
 ### Codewars:
 
