@@ -10,6 +10,6 @@ In this way, Skyline Solar has been able to double their Sales since implementin
 
 I've become pretty good at using `Stream.resource/3` to pull everything out of a SaaS service and store it into my own Postgres with Ecto so I can easily query more deeply on our data from any of these SaaS products.
 
-<img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img id="elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"> <img id="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img id="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
 <a href="https://www.codewars.com/users/marth141"><img alt="Dark Badge (large)" class="hidden dark:block" src="https://www.codewars.com/users/marth141/badges/small"></a>
