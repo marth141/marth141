@@ -16,7 +16,7 @@ I've become pretty good at using `Stream.resource/3` to pull everything out of a
 
 <a id="postgres_link" href="https://www.postgresql.org/"><img id="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a> <a id="visual_studio_code_link" href="https://code.visualstudio.com/"><img id="visual_studio_code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> <a id="docker_link" href="https://www.docker.com/"><img id="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a> <a id="ubuntu_link" href="https://ubuntu.com/"><img id="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 
-### Playthings:
+### Ancillary Tools:
 
 <img id="gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"> <img id="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img id="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img id="node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img id="shell_script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 
