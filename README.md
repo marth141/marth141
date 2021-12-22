@@ -6,7 +6,7 @@ As of writing this (2021/12/22) I've been doing an Elixir backend for Skyline So
 
 This application is an Elixir Umbrella application using Phoenix Framework, Oban, and wrappers for eight Software as a Service applications APIs. The Elixir application handles realtime webhooks (where available) to pass information between the eight SaaS products.
 
-In this way, Skyline Solar has been able to grow 11% since implementing in 2020. It has been a pretty wild ride.
+In this way, Skyline Solar has been able to grow 111% since implementing in 2020. It has been a pretty wild ride.
 
 I've become pretty good at using `Stream.resource/3` to pull everything out of a SaaS service and store it into my own Postgres with Ecto so I can easily query more deeply on our data from any of these SaaS products.
 
