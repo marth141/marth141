@@ -4,7 +4,7 @@ My name is Nathan Casados and I am into using Elixir to build systems.
 
 As of writing this (2021/12/22) I've been doing an Elixir backend for Skyline Solar.
 
-This application is an Elixir umbrella application using Phoenix Framework, Oban, and wrappers for eight Software as a Service applications APIs. The Elixir application handles realtime webhooks (where available) to pass information between the eight SaaS products.
+This application is an Elixir umbrella application using Phoenix Framework, Oban, and custom wrappers for eight Software as a Service applications APIs. The Elixir application handles realtime webhooks (where available) to pass information between the eight SaaS products.
 
 In this way, Skyline Solar has been able to grow 111% since implementing in 2020. It has been a pretty wild ride.
 
