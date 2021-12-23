@@ -29,3 +29,6 @@ I've become pretty good at using `Stream.resource/3` to pull everything out of a
 ### Codewars:
 
 <a href="https://www.codewars.com/users/marth141"><img alt="Dark Badge (large)" class="hidden dark:block" src="https://www.codewars.com/users/marth141/badges/small"></a>
+
+### University:
+<a id="uvu_link" href="https://www.uvu.edu/"><img id="uvu" src="https://img.shields.io/badge/uvu_bachelor-275D38?style=for-the-badge&logo=uvu&logoColor=white"></a>
