@@ -8,7 +8,7 @@ This application is an Elixir umbrella application using Phoenix Framework, Oban
 
 In this way, Skyline Solar has been able to grow 111% since implementing in 2020. It has been a pretty wild ride.
 
-I've become pretty good at using `Stream.resource/3` to pull everything out of a SaaS service and store it into my own Postgres with Ecto so I can easily query more deeply on our data from any of these SaaS products.
+I've become pretty good at using `Stream.resource/3` to pull everything out of a SaaS service and store it into my own Postgres with Ecto so I can easily query more deeply on our data from any of the eight SaaS products.
 
 ### Main Tools:
 
