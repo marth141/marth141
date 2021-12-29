@@ -32,3 +32,5 @@ I've become pretty good at using `Stream.resource/3` to pull everything out of a
 
 ### University:
 <a id="uvu_link" href="https://www.uvu.edu/ist/"><img id="uvu" src="https://img.shields.io/badge/uvu_bachelor:_information_technology:_network_admin_and_cybersecurity-275D38?style=for-the-badge&logo=uvu&logoColor=white"></a>
+
+### Github User since 2015/01/22
