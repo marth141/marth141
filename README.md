@@ -94,36 +94,4 @@ I've become pretty good at using `Stream.resource/3` to pull everything out of a
 
 ### Library
 
-<a>
-    <img id="pragmatic_programmer" width="90" src="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/tpp20_hu7d9a813cf46675dfb7b1bf4930cee733_2802494_250x0_resize_q75_box.jpg">
-</a>
-<a>
-    <img id="programming_elixir" width="90" src="https://pragprog.com/titles/elixir16/programming-elixir-1-6/elixir16_hu6d5b8b63a4954cb696e89b39f929331b_1496817_250x0_resize_q75_box.jpg">
-</a>
-<a>
-    <img id="programming_ecto" width="90" src="https://pragprog.com/titles/wmecto/programming-ecto/wmecto_hu6d5b8b63a4954cb696e89b39f929331b_1356468_250x0_resize_q75_box.jpg">
-</a>
-<a>
-    <img id="bee_book" width="90" src="https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/jgotp_hu6d5b8b63a4954cb696e89b39f929331b_938959_250x0_resize_q75_box.jpg">
-</a>
-<a>
-    <img id="programming_phoenix_1_4" width="90" src="https://pragprog.com/titles/phoenix14/programming-phoenix-1-4/phoenix14_hu6d5b8b63a4954cb696e89b39f929331b_925363_250x0_resize_q75_box.jpg">
-</a>
-<a>
-    <img id="realtime_phoenix" width="90" src="https://pragprog.com/titles/sbsockets/real-time-phoenix/sbsockets_hu6d5b8b63a4954cb696e89b39f929331b_1536097_250x0_resize_q75_box.jpg">
-</a>
-<a>
-    <img id="adopting_elixir" width="90" src="https://pragprog.com/titles/tvmelixir/adopting-elixir/tvmelixir_hu6d5b8b63a4954cb696e89b39f929331b_449862_250x0_resize_q75_box.jpg">
-</a>
-<a>
-    <img id="programming_liveview" width="90" src="https://pragprog.com/titles/liveview/programming-phoenix-liveview/liveview-beta-250.jpg">
-</a>
-<a>
-    <img id="concurrent_elixir" width="90" src="https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/sgdpelixir-250.jpg">
-</a>
-<a>
-    <img id="testing_elixir" width="90" src="https://pragprog.com/titles/lmelixir/testing-elixir/lmelixir.jpg">
-</a>
-<a>
-    <img id="genetic_algorithms_elixir" width="90" src="https://pragprog.com/titles/smgaelixir/genetic-algorithms-in-elixir/smgaelixir-250.jpg">
-</a>
+<img id="pragmatic_programmer" width="90" src="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/tpp20_hu7d9a813cf46675dfb7b1bf4930cee733_2802494_250x0_resize_q75_box.jpg"><img id="programming_elixir" width="90" src="https://pragprog.com/titles/elixir16/programming-elixir-1-6/elixir16_hu6d5b8b63a4954cb696e89b39f929331b_1496817_250x0_resize_q75_box.jpg"><img id="programming_ecto" width="90" src="https://pragprog.com/titles/wmecto/programming-ecto/wmecto_hu6d5b8b63a4954cb696e89b39f929331b_1356468_250x0_resize_q75_box.jpg"><img id="bee_book" width="90" src="https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/jgotp_hu6d5b8b63a4954cb696e89b39f929331b_938959_250x0_resize_q75_box.jpg"><img id="programming_phoenix_1_4" width="90" src="https://pragprog.com/titles/phoenix14/programming-phoenix-1-4/phoenix14_hu6d5b8b63a4954cb696e89b39f929331b_925363_250x0_resize_q75_box.jpg"><img id="realtime_phoenix" width="90" src="https://pragprog.com/titles/sbsockets/real-time-phoenix/sbsockets_hu6d5b8b63a4954cb696e89b39f929331b_1536097_250x0_resize_q75_box.jpg"><img id="adopting_elixir" width="90" src="https://pragprog.com/titles/tvmelixir/adopting-elixir/tvmelixir_hu6d5b8b63a4954cb696e89b39f929331b_449862_250x0_resize_q75_box.jpg"><img id="programming_liveview" width="90" src="https://pragprog.com/titles/liveview/programming-phoenix-liveview/liveview-beta-250.jpg"><img id="concurrent_elixir" width="90" src="https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/sgdpelixir-250.jpg"><img id="testing_elixir" width="90" src="https://pragprog.com/titles/lmelixir/testing-elixir/lmelixir.jpg"><img id="genetic_algorithms_elixir" width="90" src="https://pragprog.com/titles/smgaelixir/genetic-algorithms-in-elixir/smgaelixir-250.jpg">
