@@ -40,7 +40,7 @@ I've become pretty good at using `Stream.resource/3` to pull everything out of a
 <html>
   <head>
     <style>
-      .library {
+      #library {
         margin-left: 5px;
       }
     </style>
