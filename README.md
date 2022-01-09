@@ -37,4 +37,4 @@ I've become pretty good at using `Stream.resource/3` to pull everything out of a
   
 ### Library
 
-<img id="pragmatic_programmer" src="https://pragprog.com/titles/tpp20/tpp20-small.jpg"><img id="programming_ecto" src="https://pragprog.com/titles/wmecto/wmecto-small.jpg"><img id="bee_book" src="https://pragprog.com/titles/jgotp/jgotp-small.jpg">
+<img id="pragmatic_programmer" src="https://pragprog.com/titles/tpp20/tpp20-small.jpg" class="margin-left: 5px><img id="programming_ecto" src="https://pragprog.com/titles/wmecto/wmecto-small.jpg"><img id="bee_book" src="https://pragprog.com/titles/jgotp/jgotp-small.jpg">
