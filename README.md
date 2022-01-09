@@ -31,21 +31,13 @@ I've become pretty good at using `Stream.resource/3` to pull everything out of a
 <a href="https://www.codewars.com/users/marth141"><img alt="Dark Badge (large)" class="hidden dark:block" src="https://www.codewars.com/users/marth141/badges/small"></a>
 
 ### University:
+
 <a id="uvu_link" href="https://www.uvu.edu/ist/"><img id="uvu" src="https://img.shields.io/badge/uvu_bachelor:_information_technology:_network_admin_and_cybersecurity-275D38?style=for-the-badge&logo=uvu&logoColor=white"></a>
 
 ### Github User since 2015/01/22
-  
+
 ### Library
 
-<html>
-  <head>
-    <style>
-      #library {
-        margin-left: 5px;
-      }
-    </style>
-  </head>
-  <body>
-    <img id="pragmatic_programmer" src="https://pragprog.com/titles/tpp20/tpp20-small.jpg" class="library"><img id="programming_ecto" src="https://pragprog.com/titles/wmecto/wmecto-small.jpg" class="library"><img id="bee_book" src="https://pragprog.com/titles/jgotp/jgotp-small.jpg" class="library">
-  </body>
-</html>
+<a><img id="pragmatic_programmer" src="https://pragprog.com/titles/tpp20/tpp20-small.jpg" class="library"></a>
+<a><img id="programming_ecto" src="https://pragprog.com/titles/wmecto/wmecto-small.jpg" class="library"></a>
+<a><img id="bee_book" src="https://pragprog.com/titles/jgotp/jgotp-small.jpg" class="library"></a>
