@@ -36,11 +36,18 @@ I've become pretty good at using `Stream.resource/3` to pull everything out of a
 ### Github User since 2015/01/22
   
 ### Library
-  
+
+<html>
+<head>
 <style>
   library_img: {
     margin-left: 5px;
   }
 </style>
+  </head>
+  <body>
+  
 
 <img id="pragmatic_programmer" src="https://pragprog.com/titles/tpp20/tpp20-small.jpg" class="library_img"><img id="programming_ecto" src="https://pragprog.com/titles/wmecto/wmecto-small.jpg" class="library_img"><img id="bee_book" src="https://pragprog.com/titles/jgotp/jgotp-small.jpg" class="library_img">
+  </body>
+</html>
