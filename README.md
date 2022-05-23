@@ -1,14 +1,14 @@
 ### Hello there! 👋
 
-My name is Nathan Casados, I've been a Github user since 2015/01/22 and I am into using Elixir to build systems.
+My name is Nathan Casados, I've been a practicing programming since 2015/01/22 and I am into using Elixir to build systems.
 
 As of writing this (2021/12/22) I've been doing an Elixir backend for Skyline Solar.
 
-This application is an Elixir umbrella application using Phoenix Framework, Oban, and custom wrappers for eight Software as a Service APIs. The Elixir application handles realtime webhooks (where available) to pass information between the eight SaaS products and polling when realtime webhooks aren't available.
+It's an Elixir umbrella application using Phoenix Framework, Oban, and API wrappers for the vendor software used at Skyline Solar. Provides realtime automations for Skyline Solar's software ecosystem.
 
-In this way, Skyline Solar has been able to grow quite a bit since implementing in 2020. It has been a pretty wild ride.
+Outside of programming, I enjoy playing video games with my friends and traveling around Utah, Colorado, and Wyoming. I enjoy looking at the desert landscapes. Camping is big activity for me during the summer months.
 
-I've become pretty good at using `Stream.resource/3` to pull everything out of a SaaS service and store it into my own Postgres with Ecto so I can easily query more deeply on our data from any of the eight SaaS products.
+Thanks for visiting my profile!
 
 ### Main Tools:
 
