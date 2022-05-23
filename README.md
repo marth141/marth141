@@ -16,27 +16,9 @@ I've become pretty good at using `Stream.resource/3` to pull everything out of a
 
 <a id="postgres_link" href="https://www.postgresql.org/"><img id="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a> <a id="visual_studio_code_link" href="https://code.visualstudio.com/"><img id="visual_studio_code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> <a id="docker_link" href="https://www.docker.com/"><img id="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a> <a id="ubuntu_link" href="https://ubuntu.com/"><img id="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a> <a id="oban_link" href="https://github.com/sorentwo/oban"><img id="oban" src="https://img.shields.io/badge/oban-186328?style=for-the-badge&logo=oban&logoColor=white"></a>
 
-### Ancillary Tools:
-
-<a id="gimp_link" href="https://www.gimp.org/"><img id="gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"></a> <a id="python_link" href="https://www.python.org/"><img id="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <a id="npm_link" href="https://www.npmjs.com/"><img id="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a> <a id="node_link" href="https://nodejs.org/en/"><img id="node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a> <a id="shell_link" href="https://ss64.com/"><img id="shell_script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-
-<a id="typescript_link" href="https://www.typescriptlang.org/"><img id="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a> <a id="markdown_link" href="https://www.markdownguide.org/cheat-sheet/"><img id="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a> <a id="windows_link" href="https://www.microsoft.com/en-us/windows?r=1"><img id="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> <a id="postman_link" href="https://www.postman.com/"><img id="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-
-### Learning:
-
-<a id="twilio_link" href="https://www.twilio.com/"><img id="twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"></a>
-
 ### University:
 
 <a id="uvu_link" href="https://www.uvu.edu/ist/"><img id="uvu" src="https://img.shields.io/badge/uvu_bachelor:_information_technology:_network_admin_and_cybersecurity-275D38?style=for-the-badge&logo=uvu&logoColor=white"></a>
-
-### Bookshelf:
-
-<a><img id="pragmatic_programmer" width="90" src="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/tpp20.jpg"></a> <a><img id="programming_elixir" width="90" src="https://pragprog.com/titles/elixir16/programming-elixir-1-6/elixir16.jpg"> <a><img id="programming_ecto" width="90" src="https://pragprog.com/titles/wmecto/programming-ecto/wmecto.jpg"></a> <a><img id="bee_book" width="90" src="https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/jgotp.jpg"> <a><img id="programming_phoenix_1_4" width="90" src="https://pragprog.com/titles/phoenix14/programming-phoenix-1-4/phoenix14.jpg"></a> <a><img id="realtime_phoenix" width="90" src="https://pragprog.com/titles/sbsockets/real-time-phoenix/sbsockets.jpg"> <a><img id="adopting_elixir" width="90" src="https://pragprog.com/titles/tvmelixir/adopting-elixir/tvmelixir.jpg"></a> <a><img id="programming_liveview" width="90" src="https://pragprog.com/titles/liveview/programming-phoenix-liveview/liveview.jpg"></a> <a><img id="concurrent_elixir" width="90" src="https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/sgdpelixir.jpg"></a> <a><img id="testing_elixir" width="90" src="https://pragprog.com/titles/lmelixir/testing-elixir/lmelixir.jpg"></a> <a><img id="genetic_algorithms_elixir" width="90" src="https://pragprog.com/titles/smgaelixir/genetic-algorithms-in-elixir/smgaelixir.jpg"></a> <a><img id="a_plus_cert_book" width="90" src="https://images-na.ssl-images-amazon.com/images/I/51rcHcAO6NL._SY445_SX342_QL70_FMwebp_.jpg"></a> <a><img id="computer_networks" width="90" src="https://images-na.ssl-images-amazon.com/images/I/415oSgOwJBL._SX342_SY445_QL70_FMwebp_.jpg"></a> <a><img id="computer_networks" width="90" src="https://images-na.ssl-images-amazon.com/images/I/617tE2KI-7S._SX342_SY445_QL70_FMwebp_.jpg"></a> <a><img id="computer_networks" width="90" src="https://images-na.ssl-images-amazon.com/images/I/51gHtSq3XgL._SX258_BO1,204,203,200_.jpg"></a>
-
-### Codewars:
-
-<a href="https://www.codewars.com/users/marth141"><img alt="Dark Badge (large)" class="hidden dark:block" src="https://www.codewars.com/users/marth141/badges/small"></a>
   
 ### Gitlab:
   https://gitlab.com/marth141
