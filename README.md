@@ -12,6 +12,9 @@ Today, I work at a small solar company providing IT services for them. Some of t
 
 Thanks for visiting my profile!
 
+### Connect with me
+<a id="twitter_link" href="https://www.twitter.com/cmdr_kero"><img id="twitter_logo" src="https://user-images.githubusercontent.com/10647920/209744263-95eb1b66-69c9-44de-b922-c0c5f0617746.png" width="30"></a> <a id="discord_link" href="https://discord.com/users/289628130128429057"><img id="discord_logo" src="https://user-images.githubusercontent.com/10647920/209744886-57ba4577-434c-4e0e-bf6e-a1b5d29273a4.png" width="30"></a>
+
 ### Main Tools:
 
 <a id="phoenix_framework_link" href="https://www.phoenixframework.org/"><img id="phoenix_framework" src="https://img.shields.io/badge/phoenix_framework-E95122?style=for-the-badge&logo=phoenix_framework&logoColor=white"></a> <a id="elixir_link" href="https://elixir-lang.org/"><img id="elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"></a> <a id="tailwind_link" href="https://tailwindcss.com/"><img id="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a> <a id="alpinejs_link" href="https://alpinejs.dev/"><img id="alpinejs" src="https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black"></a> <a id="liveview_link" href="https://github.com/phoenixframework/phoenix_live_view"><img id="liveview" src="https://img.shields.io/badge/liveview-E95122?style=for-the-badge&logo=liveview&logoColor=white"></a>
