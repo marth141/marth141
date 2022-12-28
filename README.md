@@ -2,11 +2,13 @@
 
 My name is Nathan Casados, I've been a practicing programming since 2015/01/22 and I am into using Elixir to build systems.
 
-As of writing this (2021/12/22) I've been doing an Elixir backend for Skyline Solar.
+I love using Ecto, Phoenix, and LiveView and have multiple projects using them because of how easy they are to use. It's great to have the storage of Ecto and full web tooling with Phoenix. I'm a huge fan of how everything is a process, decoupled from other processes, all supervisored. With the OTP tools in Elixir passing units of information from one process to another to be worked is very easy.
 
-It's an Elixir umbrella application using Phoenix Framework, Oban, and API wrappers for the vendor software used at Skyline Solar. Provides realtime automations for Skyline Solar's software ecosystem.
+My programming journey began with system automation scripting such as with BATCH and Bash--GUI Automation scripting such as with AutoHotKey--and general purpose languages such as JavaScript, C#, and Java. Each one was a tool for figuring out some kind of automation to make my life and the lives of my coworkers easier. From renaming files, to manipulating webpages, to building applications.
 
-Outside of programming, I enjoy playing video games with my friends and traveling around Utah, Colorado, and Wyoming. I enjoy looking at the desert landscapes. Camping is big activity for me during the summer months.
+Work and making it easier was always a big driving factor for me to learn any of this. Soon this evolved from solving simple repeatative work problems to trying to think about how to build a system that suits a business.
+
+Today, I work at a small solar company providing IT services for them. Some of their system I have built in Elixir and it has been a critical piece for the company's growth. In the future, I hope to be able to provide more services to companies using Elixir!
 
 Thanks for visiting my profile!
 
