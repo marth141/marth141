@@ -1,16 +1,10 @@
 ### Hello there! 👋
 
-My name is Nathan Casados, I've been a practicing programming since 2015/01/22 and I am into using Elixir to build systems.
+As a professional software developer with extensive experience in Elixir, I specialize in building robust and efficient systems utilizing the Ecto, Phoenix, and LiveView frameworks. With a background in system automation scripting and general-purpose programming languages, I have a strong understanding of how to design and implement solutions that effectively meet the needs of businesses.
 
-I love using Ecto, Phoenix, and LiveView and have multiple projects using them because of how easy they are to use. It's great to have the storage of Ecto and full web tooling with Phoenix. I'm a huge fan of how everything is a process, decoupled from other processes, all supervisored. With the OTP tools in Elixir passing units of information from one process to another to be worked is very easy.
+Currently, I am working at a small solar company providing IT services where I have used Elixir to build critical systems that have contributed to the company's growth. My goal is to continue to provide value to companies through my expertise in Elixir and my passion for making work easier through automation and system design.
 
-My programming journey began with system automation scripting such as with BATCH and Bash--GUI Automation scripting such as with AutoHotKey--and general purpose languages such as JavaScript, C#, and Java. Each one was a tool for figuring out some kind of automation to make my life and the lives of my coworkers easier. From renaming files, to manipulating webpages, to building applications.
-
-Work and making it easier was always a big driving factor for me to learn any of this. Soon this evolved from solving simple repeatative work problems to trying to think about how to build a system that suits a business.
-
-Today, I work at a small solar company providing IT services for them. Some of their system I have built in Elixir and it has been a critical piece for the company's growth. In the future, I hope to be able to provide more services to companies using Elixir!
-
-Thanks for visiting my profile!
+Check out my Github to see some of my work and contributions. Thank you for visiting my profile!
 
 ### Connect with me
 <a id="twitter_link" href="https://www.twitter.com/cmdr_kero"><img id="twitter_logo" src="https://user-images.githubusercontent.com/10647920/209744263-95eb1b66-69c9-44de-b922-c0c5f0617746.png" width="30"></a> <a id="discord_link" href="https://discord.com/users/289628130128429057"><img id="discord_logo" src="https://user-images.githubusercontent.com/10647920/209744886-57ba4577-434c-4e0e-bf6e-a1b5d29273a4.png" width="30"></a>
