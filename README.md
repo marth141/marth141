@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-As a professional software developer with extensive experience in Elixir, I specialize in building robust and efficient systems utilizing the Ecto, Phoenix, and LiveView frameworks. With a background in system automation scripting and general-purpose programming languages, I have a strong understanding of how to design and implement solutions that effectively meet the needs of businesses.
+As a professional software developer with extensive experience in Elixir, I specialize in building robust and efficient systems utilizing the Ecto, Phoenix, and LiveView libraries. With a background in system automation scripting and general-purpose programming languages, I have a strong understanding of how to design and implement solutions that effectively meet the needs of businesses.
 
 Currently, I am working at a small solar company providing IT services where I have used Elixir to build critical systems that have contributed to the company's growth. My goal is to continue to provide value to companies through my expertise in Elixir and my passion for making work easier through automation and system design.
 
