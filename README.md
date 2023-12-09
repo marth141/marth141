@@ -21,6 +21,3 @@ Check out my Github to see some of my work and contributions. Thank you for visi
   
 ### Gitlab:
   https://gitlab.com/marth141
-  
-### Dev Notebook:
-  https://1drv.ms/u/s!Aq3XiPZlfbfCg4McItxtZICW4Ng5uQ?e=d0aCnb
